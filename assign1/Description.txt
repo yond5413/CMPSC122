@@ -1,0 +1,2 @@
+
+My first ever OOP program essential a athlete simulator that stores all the information of each player
