@@ -1,0 +1,1 @@
+This was my second project. It read zipcodes and other information from a csv and stored in a global dictionary
